@@ -1,0 +1,343 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+	Madhav Institute of Technology & Science, Gwalior 
+</title>
+    <!-- for-mobile-apps -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="keywords" content="MITS" />
+
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+
+    <!-- //for-mobile-apps -->
+    <link href="../css/bootstrap.css" rel="stylesheet" type="text/css" media="all" /><link href="../css/style.css" rel="stylesheet" type="text/css" media="all" />
+    
+      
+ 
+    <!-- js -->
+    <link href="../assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    
+    <script src="../JS/md5.js" language="javascript" type="text/javascript"></script>
+       <script type="text/jscript" src="../JS/print.js"></script>
+    <script type="text/jscript" src="../JS/dFilter.js"></script>
+    <script src="../js/jquery-1.11.1.min.js"></script>
+
+    <!-- //js -->
+     <script type = "text/javascript" >
+
+         function disableBackButton() {
+             window.history.forward();
+         }
+         setTimeout("disableBackButton()", 0);
+
+</script>
+    <style type="text/css">
+        .style1
+        {
+            color: #FFE052;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./StudentLogin.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="ivzFb+QRwdA3/gVvdcNsLNBoirEcZ8gb4sNrFtFZkd0Mfupv/q4ociJbFQTEqnInNyeXY6gOvh9Ug0xLwGxI4M5p7fo+sGXUBeZiCbjlYhVExuqXtxKrJW6gigkN6n1Le4IPyn1btaPkN8K4GppmVSqeATjUpBTwr71CusHE/dsOEBxRPVfC2dNhog6zSKjyrrWZyyiZfQ+3E1OfXKovxIZBJgtprV7AmTQbe+9REVmEt10+U7ixV+E9IJzVqIk784uXpHqttvL4uFcYcNJuNRjiXg5ttQ5CXxxIyMfP7N/Gknwpwb//kSpBXXK/1PVSXuhAnsC9BNgMYH2/hU55tpynqyfep5apExn14Ui4ktwPfhFv5nDxERyDghNnWnrnfqG9yp7gwlBddG7mzkok8mV0dzs50sZonwgmJbL1a7tnblSV2tovSvtV2Wa4Q7CufNdgkaMTgpUmucQCom/AEj3+/ijzE/EiJV+msiTXHrKVoRfKZTh96u4Kts+R1MEO3tnS0liZyy1CoZOmcHj3g9uJpRg72jRzdsGbzx31dTQCUuzer2AkXO9u9JGfLTt8lvp+sOhok6W3tyX3ZeM+G4mcVpOly2if7daBz0J9qGQ8qA0wW+ex+Pg5QgIsNjGU83nPtNAzLm6wuP+yCPxwDvWOT7wpmAFpo7+Dh4kaXc/rmRxmEtx94y2QPK/WvvH2" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=8r5pqOsTwHo5WDQGPw-cpRCHgw6_6i0v3E50NGuRfrXwFPdShLR-rXoVVvzu_JsFB7N4WO_TFqrOSHSODlmqY628wh2VYVi7ebJ9_LzqTGo1&amp;t=637346973180000000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=tyXTH1t7CXNcWmlRxmpQ_pQGAtK1UlyQny7ip_YgxPi07W7BmMIANptecZ_m5JjVRTgJjZuMAeC4UDUf1IOlAp34xkf6L5UME3nkocIiY4da5BrJKJVIdyNHB3l3WWL4xeMOrKE5HUPolCOB2decURg_7SNrhMiii8Cgy5mRR1Y1&amp;t=293a72cb" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=ZdZrlxU8ziuXmL0o5QcIFjlOPRRBcqUzSaGuNX1gcsLi6FZiYAWa9cWJ27cuovSDj-36qx1-8YY5A7S895BUWtrgDJxhCZMz1HsKgUNnmAxzfFhWmy6bfoibVo9nSaqm499HYwTbMlMW5XLW5zm2mejhSTOgDQOSADTu3LVtCQA1&amp;t=ffffffffb4e3605f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=_bCsjqoibNpjT6wwzHEbNOOKCSaD9FHyvW3dodcYMIrom6pCAKF9QzhFV39R_tPGnCAcB1lzQoJ_zUwrfp7wsOqRa0hQ8-2qXrOl1fzuwdaJdwnETOVmvtCJ8v1yzI1z7ujgBF3vtY8otwVo0LWnr4ZLRoObKGT2xy2ep2RcFAcXa15f0MP9FAZyotfQwA8B0&amp;t=ffffffffb4e3605f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=fVcUoQ8Pw6cpgY4daTsmngAB0t5-qoxaI1EtJ3RkwFyfQ4ssONJFqBapGvtD9mNtw281wLZDlL5y1ucCkiDThe7-GkcMxQ_RWgMU64AlUs0OgSqPFupShG6vyh4Q5GmkZ3DpI1ZFH8j8tJ3dgeid-ePhaxX21faYjAvs9mHD68s1&amp;t=4eae7268" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=mOws2jtuI9KK5DuQNGPMNOsJIpLbb1lGgOAwsY4hhK052gZkusmauc6Th9fSx2n8tSyCUvD54wYYg8PPUB0jTcnMnouoYHGOZFYZ7P5g5wNd0fDDIar4eYXgH5X9amraUuWFNcgrJL8rU77X2GdB8G0NFO34NBpdjak9h0LsF781&amp;t=4eae7268" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=wDfyg1NljwrmWK0xg49Mdk85QmlJYRFnN9uJKUnKNqwEnYRyD48g1LB4KtI8oV6Qx0NXimD0-3jRGzMREyKggB8zVIlnL5xlIbzTN08KP2qNUoX8ZgMO8OXgYqmtT79cm_NG3Yv41EZG6Mlbp75l_ngtbH5Kup9Qdcv4aWH0DF-qXOy7H3dXzdUuQGQcVz2a0&amp;t=4eae7268" type="text/javascript"></script>
+<script src="/WebResource.axd?d=07LTXSBm1oJjZtXbeJpZ_7sBvWyM-ECdg-O2QhY-lQ3WPdkNxZN780AAgNpHFviNHaHUwrWQl6e5XDqCQNMbuWYMAFpOem0HxhyksboTa2M1&amp;t=637346973180000000" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2978239D" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="258AnHHzApqG0pbJjGcZHbQdldznVqk/iasDhH2lAI6NCWwLPrYzZlN8C04EYNPNM9B5JxzntpMx3t7Zm5dh5mTzSVvcyQbYXnljlvfQiUH4piYka6wxnXTyfqHeoBJi5w4b8ez0BuiAIRglZjCcIGYcpo7+usgDUmztGim9Pl6seP80yh5EZVp21r2ikhAfpccIMaRfCj5KuzD11VmI1A==" />
+</div>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', ['tctl00$ContentPlaceHolder1$UpdPnlLogin','ContentPlaceHolder1_UpdPnlLogin','tctl00$ContentPlaceHolder1$ucImpNotice_display$UpdatePanel1','ContentPlaceHolder1_ucImpNotice_display_UpdatePanel1'], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+        <!-- banner -->
+        <div class="banner form-group">
+            <div class="container">
+                <div class="header-nav">
+                    <nav class="navbar navbar-default">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+					  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					  </button>
+						<div class="logo">
+							<div style="float:left;"><img src="../images/mitslogo.png"></div><a class="navbar-brand" href="#">Madhav Institute of Technology & Science <br />
+                          <span>Race Course Road, Gole ka Mandir, Gwalior,M.P.-474005</span></a><span 
+                                class="style1"> </span>&nbsp;</div>
+					</div>
+
+
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="navbar-header" id="bs-example-navbar-collapse-1">
+                  
+					 <ul class="nav navbar-nav">
+							<li ><a href="../Login/StudentLogin.aspx">Home</a></li>
+						<li><a href="http://mitsgwalior.in/course.php">Admission</a></li>
+							<li><a href="../Inst/ViewTT.aspx">Time Table</a></li>
+						<li><a href="../Inst/ViewScheme.aspx">Scheme/Syllabus</a></li>
+                        <li><a href="https://www.rgpv.ac.in/AboutRGTU/frm_ViewOrdinance.aspx">Ordinance</a></li>
+                              <li><a href="../Support/Frm_support.aspx">Support</a></li>
+                               <li><a href="http://mis.mitsgwalior.in/User_Mgmt/Frm_userlogin.aspx">Office Login</a></li>
+                           
+                             <li > <a href="../Result/ProgramSelect.aspx" style="background-color: rgb(230, 189, 0); " target ="_blank" >Result June-2020 </a></li>
+					  </ul>
+                     
+                               
+              
+					</div><!-- /.navbar-collapse -->
+               
+				</nav>
+             
+                  	
+           </div>
+          
+               
+                    
+   <div id="ContentPlaceHolder1_UpdPnlLogin">
+	
+    <script src="../JS/md5.js" language="javascript" type="text/javascript"></script>
+            <script src="../JS/Print.js" language="javascript" type="text/javascript"></script>
+            
+            <script language="javascript" type="text/javascript">
+                function a(ran) {
+                    if (document.getElementById('ContentPlaceHolder1_txtPassword').value != "") {
+                        var md51;
+                        md51 = hex_md5(document.getElementById('ContentPlaceHolder1_txtPassword').value);
+                        document.getElementById('ContentPlaceHolder1_txtPassword').value = hex_md5(md51 + ':' + ran);
+                        return true;
+                    }
+                    else {
+                        alert('Enter Empty fields');
+                       
+                    }
+                    return false;
+                }
+                
+       
+            </script>
+            
+        <div class="col-md-4 col-sm-6 banner-info-right col-md-offset-4 col-sm-offset-4">
+            <div class="sap_tabs">
+                <h4 class="login-page-title">
+                    Student Login
+                </h4>
+                <div class="facts">
+                    <div class="sign-in-form">
+                        <div class="in-form">
+                            <input name="ctl00$ContentPlaceHolder1$txtUserName" type="text" maxlength="20" id="ContentPlaceHolder1_txtUserName" tabindex="1" placeholder="Username" required=" " onkeypress="javascript:return RestrictSpecialChar(&#39;ContentPlaceHolder1_txtUserName&#39;,5);" />
+                            <input name="ctl00$ContentPlaceHolder1$txtPassword" type="password" maxlength="50" id="ContentPlaceHolder1_txtPassword" tabindex="2" placeholder="Password" required=" " style="margin-top: 15px;" />
+                            
+                            <div id="ContentPlaceHolder1_pnlCaptcha" style="width:100%;">
+		
+                                <table cellpadding="1" cellspacing="1" style="width: 100%">
+                                    <tbody>
+                                       
+                                        <tr>
+                                            <td align="center">
+                                              <div style='background-color:White;' ><img src="CaptchaImage.axd?guid=48ac2b2e-24c1-40b2-bd27-29ebc0da329b" border="0" alt="Captcha" width="250" height="45" /></div> 
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center">
+                                                <strong><span style="font-size: 8pt; color: #cc0033">Please enter the Text Below in
+                                                    Text Box</span></strong>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" style="width: 100%">
+                                                <input name="ctl00$ContentPlaceHolder1$TextBox1" type="text" maxlength="6" id="ContentPlaceHolder1_TextBox1" tabindex="3" required=" " style="height:40px;width:250px;" /><br /><i class="fa fa-refresh" aria-hidden="true"></i><a href="~/login/Studentlogin.aspx"> Captcha Image</a>
+                                                <span id="ContentPlaceHolder1_rfvCaptcha" style="display:none;">*</span>
+                                                
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            
+	</div>
+                            <div class="ckeck-bg">
+                                <div class="checkbox-form">
+                                    <div class="check-left">
+                                        <div class="check">
+                                                <a href="../Support/ForgotPassword.aspx" target="_blank">Forgot Password</a> | <a
+                                                href="../Stu/StudentRegBillDesk.aspx" target="_blank">Student Registration</a>
+                                        </div>
+                                       
+                                    </div>
+                                    <div class="check-right">
+                                      <a href="../pdf/StudentNotice.pdf" target="_blank"  style="color:Red">Before Login please click here</a>&nbsp;<input type="submit" name="ctl00$ContentPlaceHolder1$btnLogin" value="Login" onclick="javascript:a(&#39;DovzBino&#39;);WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$btnLogin&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ContentPlaceHolder1_btnLogin" tabindex="4" />
+                                    </div>
+                                    <div class="clearfix">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    
+</div>
+ <script type="text/javascript">
+//            $(window).load(function () {
+//                $('#myModal').modal('show');
+     //            });
+     $(window).load(function () {
+         $('#onload').modal('show');
+     });
+</script>    
+  
+       <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true"  id="onload" style="margin-top:15%;">
+        <div class="modal-dialog">
+           <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">×</button>
+          <h4 class="modal-title"><i></i>Important Alerts </h4>
+         
+        </div>
+            <div class="modal-body">
+        
+
+               <div id="ContentPlaceHolder1_ucImpNotice_display_UpdatePanel1">
+	
+       
+                    
+                    <div>
+
+	</div>
+              
+    
+</div>
+
+         
+        </div>
+     
+       
+      </div>
+   </div>
+</div>
+
+                   
+                </div>
+                <div class="clearfix">
+              
+            </div>     
+        </div>
+        <!-- //banner -->
+        <!--footer-->
+        <div class="footer">
+            
+            <div class="footer-bottom">
+                <div class="container">
+                    <p>
+                        Copyright © 2016 MITS. All rights reserved | Designed by <a href="http://www.crispindia.com" target="_blank" >
+                            CRISP</a></p>
+                </div>
+            </div>
+            <!--//footer-->
+            <!-- for bootstrap working -->
+
+            <script src="../js/bootstrap.js" type="text/javascript" > </script>
+
+            <!-- //for bootstrap working -->
+        </div>
+    
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ContentPlaceHolder1_rfvCaptcha"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var ContentPlaceHolder1_rfvCaptcha = document.all ? document.all["ContentPlaceHolder1_rfvCaptcha"] : document.getElementById("ContentPlaceHolder1_rfvCaptcha");
+ContentPlaceHolder1_rfvCaptcha.controltovalidate = "ContentPlaceHolder1_TextBox1";
+ContentPlaceHolder1_rfvCaptcha.errormessage = "Required";
+ContentPlaceHolder1_rfvCaptcha.display = "Dynamic";
+ContentPlaceHolder1_rfvCaptcha.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ContentPlaceHolder1_rfvCaptcha.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        WebForm_AutoFocus('ContentPlaceHolder1_txtUserName');Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.FilteredTextBoxBehavior, {"FilterType":15,"ValidChars":"/.[!,@,#,$,%,^,\u0026,*,?,_,~","id":"ContentPlaceHolder1_FTBPassword"}, null, null, $get("ContentPlaceHolder1_txtPassword"));
+});
+
+document.getElementById('ContentPlaceHolder1_rfvCaptcha').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ContentPlaceHolder1_rfvCaptcha'));
+}
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.FilteredTextBoxBehavior, {"FilterType":15,"id":"ContentPlaceHolder1_ftbCptcha"}, null, null, $get("ContentPlaceHolder1_TextBox1"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>
